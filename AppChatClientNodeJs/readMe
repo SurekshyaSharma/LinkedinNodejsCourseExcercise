@@ -1,9 +1,8 @@
-# npm init --yes
-# npm install --save express
+#npm init --yes
+#npm install --save express
 ----------------------------------
 external module to support to parse the body 
-# npm install -s body-parser 
-
-
-# nodemon .\server.js
+#npm install -s body-parser 
+TO run the server
+#nodemon .\server.js
 http://localhost:3000/
